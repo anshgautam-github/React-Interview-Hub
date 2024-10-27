@@ -2,8 +2,7 @@
 | No. | Questions                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | **Core React**                                                                                                                                                                                                                   |
-| 1   |[What is React?](#what-is-react)                                                                                                                                                               
-                    |
+| 1   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
 | 2   | [What is the history behind React evolution?](#What-is-the-history-behind-React-evolution)                                                                                                                                       |
 | 3   | [What are the major features of React?](#what-are-the-major-features-of-react)                                                                                                                                                   |
 | 4   | [What is JSX?](#what-is-jsx)                                                                                                                                                                                                     |
@@ -81,15 +80,3 @@
 | 76  | [What are the popular packages for animation?](#what-are-the-popular-packages-for-animation)                                                                                                                                     |
 | 77  | [What is the benefit of styles modules?](#what-is-the-benefit-of-styles-modules)                                                                                                                                                 |
 | 78  | [What are the popular React-specific linters?](#what-are-the-popular-react-specific-linters)   
-
-
-
-## Core React
-
-1.  ### What is React?
-
-    React (aka React.js or ReactJS) is an **open-source front-end JavaScript library** that is used for building composable user interfaces, especially for single-page applications. It is used for handling view layer for web and mobile apps based on components in a declarative approach.
-
-    React was created by [Jordan Walke](https://github.com/jordwalke), a software engineer working for Facebook. React was first deployed on Facebook's News Feed in 2011 and on Instagram in 2012.
-
-    **[⬆ Back to Top](#table-of-contents)**
