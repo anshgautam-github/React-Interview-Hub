@@ -1,8 +1,9 @@
 
 | No. | Questions                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **<span style="color:blue">Core React</span>**                                                                                                                                                                                                                   |
-| 1   |  <span style="color:green">[What is React?](#what-is-react)</span>                                                                                                                                                               |
+|     | **Core React**                                                                                                                                                                                                                   |
+| 1   |[What is React?](#what-is-react)                                                                                                                                                               
+                    |
 | 2   | [What is the history behind React evolution?](#What-is-the-history-behind-React-evolution)                                                                                                                                       |
 | 3   | [What are the major features of React?](#what-are-the-major-features-of-react)                                                                                                                                                   |
 | 4   | [What is JSX?](#what-is-jsx)                                                                                                                                                                                                     |
